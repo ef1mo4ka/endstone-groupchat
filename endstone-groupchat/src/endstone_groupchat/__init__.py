@@ -1,0 +1,1 @@
+from .groupchat import GroupChatPlugin

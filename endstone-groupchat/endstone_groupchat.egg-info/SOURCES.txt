@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+endstone_groupchat.egg-info/PKG-INFO
+endstone_groupchat.egg-info/SOURCES.txt
+endstone_groupchat.egg-info/dependency_links.txt
+endstone_groupchat.egg-info/entry_points.txt
+endstone_groupchat.egg-info/requires.txt
+endstone_groupchat.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[endstone]
+groupchat = endstone_groupchat.groupchat:GroupChatPlugin
